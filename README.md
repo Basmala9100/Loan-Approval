@@ -1,6 +1,7 @@
 # 🏦 Loan Approval Prediction
-# 📜 Overview
 Accurately predicting loan approvals is crucial for financial institutions to minimize risk and optimize lending decisions. This project applies machine learning to develop a predictive model that determines whether a loan application should be approved based on various applicant details.
+
+# 📜 Overview
 
 The dataset includes key features such as income, loan amount, credit history, employment status, and other financial indicators. By leveraging exploratory data analysis (EDA), feature engineering, and machine learning models, this project aims to build an efficient system for automated loan approval prediction.
 ---

@@ -1,5 +1,4 @@
 # 🏦 Loan Approval Prediction
-
 # 📜 Overview
 Accurately predicting loan approvals is crucial for financial institutions to minimize risk and optimize lending decisions. This project applies machine learning to develop a predictive model that determines whether a loan application should be approved based on various applicant details.
 
